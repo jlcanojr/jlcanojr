@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlcanojr
-- 👀 I’m a phd student in rhetoric and composition at texas christian university.
-- 🌱 I’m currently learning about Leaflet.js and other mapping technologies.
+- 👀 I’m a phd candidate in rhetoric and composition at texas christian university.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on issues pertaining to the US-México border.
 - 📫 How to reach me joseluis.canojr@gmail.com
 
